@@ -48,6 +48,9 @@ A **responsive single-page portfolio website** built using **HTML** and **CSS** 
 - Include a contact form with backend integration  
 - Enhance mobile responsiveness and animations  
 
-## Screenshot
+## output
+
+<img width="1852" height="908" alt="Image" src="https://github.com/user-attachments/assets/be7865d9-f6c9-4651-b979-5b21979d6410" />
+<img width="1838" height="884" alt="Image" src="https://github.com/user-attachments/assets/b181941d-cdec-4936-804e-2fd1df378f6c" />
 
 
